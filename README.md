@@ -79,6 +79,10 @@ Fizzy checks these locations (in order):
 - Fizzy.do account
 - `jq` and `curl`
 
+## Resources
+
+- [Fizzy API Documentation](https://github.com/basecamp/fizzy/blob/main/docs/API.md)
+
 ## License
 
 Apache-2.0
