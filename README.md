@@ -21,8 +21,7 @@ claude plugin install fizzy
 
 Build the MCP server:
 ```bash
-cd ~/.claude/plugins/cache/fizzy-marketplace/fizzy/*/servers/fizzy-mcp
-npm install && npm run build
+(cd ~/.claude/plugins/cache/fizzy-marketplace/fizzy/*/servers/fizzy-mcp && bun install && bun run build)
 ```
 
 ## Setup
